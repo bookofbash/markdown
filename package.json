@@ -4,7 +4,7 @@
   "homepage": "https://bookofbash.github.io/markdown",
   "private": true,
   "dependencies": {
-    "marked": "^0.6.1",
+    "marked": "^0.6.2",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-marked": "^0.3.1",
